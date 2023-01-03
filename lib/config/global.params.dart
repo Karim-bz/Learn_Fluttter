@@ -17,5 +17,10 @@ class GlobalParams {
       "icon": const Icon(Icons.ads_click),
       "route": "/counter",
     },
+    {
+      "title": "Counter Provider",
+      "icon": const Icon(Icons.ads_click),
+      "route": "/counter_provider",
+    },
   ];
 }
